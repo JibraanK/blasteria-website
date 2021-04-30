@@ -497,7 +497,7 @@ figure + .ld-cart-product-details { margin-left: 15px; }
 .lqd-lang-module img + span { margin-left: 0.6em; }
 
 .navbar-brand { display: -webkit-inline-box; display: inline-flex; height: auto; padding: 30px 0; line-height: normal; float: none; -webkit-box-ordinal-group: 1; order: 0; flex-shrink: 0; -webkit-transition: none; transition: none; }
-.navbar-brand img { -webkit-transition: opacity 0.3s, visibiliy 0.3s; transition: opacity 0.3s, visibiliy 0.3s; }
+.navbar-brand img { -webkit-transition: opacity 0.3s, visibiliy 0.3s; transition: opacity 0.3s, visibiliy 0.3s, height 50px;}
 .navbar-brand .logo-sticky { display: none; }
 .navbar-brand .logo-light, .navbar-brand .logo-dark { position: absolute; top: 0; left: 0; opacity: 0; visibility: hidden; }
 .navbar-brand:hover .navbar-brand-hover { width: 100%; }
