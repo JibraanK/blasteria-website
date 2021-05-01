@@ -27,7 +27,7 @@ h5, .h5,
 h6 .h6 {
   font-family: 'Poppins', 'sans-serif';
   font-weight: 700;
-  color: #000;
+  color: #1E152A;
 }
 
 .h1,
@@ -68,8 +68,8 @@ h6 {
 }
 
 .btn-solid {
-  background-color: #3d59e8;
-  border-color: #3d59e8;
+  background-color: #6348FF;
+  border-color: #6348FF;
 }
 
 .btn-solid:hover {
@@ -81,26 +81,26 @@ h6 {
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 0.05em;
-  color: #858694;
+  color: #412F95;
 }
 
 .main-nav > li.is-active > a,
 .main-nav > li.current-menu-item > a,
 .main-nav > li:hover > a,
 .main-nav > li > a:hover {
-  color: #fe688b;
+  color: #F58A07;
 }
 
 .main-footer {
-  color: #808291;
+  color: #412F95;
 }
 
 .main-footer a:not(.btn) {
-  color: #808291;
+  color: #412F95;
 }
 
 .main-footer a:not(.btn):hover {
-  color: #fe688b;
+  color: #F58A07;
 }
 
 @media (min-width: 1200px) {
@@ -111,10 +111,10 @@ h6 {
   .mainbar-wrap.is-stuck .header-module .ld-module-trigger,
   .mainbar-wrap.is-stuck .main-nav > li > a,
   .mainbar-wrap.is-stuck .ld-module-search-visible-form .ld-search-form input {
-    color: rgba(0, 0, 0, 0.7) !important;
+    color: #412F95 !important;
   }
   .mainbar-wrap.is-stuck .social-icon a:hover,
   .mainbar-wrap.is-stuck .main-nav > li > a:hover {
-    color: #000 !important;
+    color: #F58A07 !important;
   }
 }
